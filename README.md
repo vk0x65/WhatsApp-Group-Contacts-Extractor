@@ -10,4 +10,4 @@ Then It will show a popup asking you about the group name you want to extract
 
 Enter The group name then Hit Okay and Bow It's done!
 
-It will going to download a CSV file with all group contact numbers
+It will be going to download a CSV file with all group contact numbers
